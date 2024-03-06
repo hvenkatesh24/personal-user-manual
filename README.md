@@ -1,90 +1,57 @@
-# Personal User Manual Template
+# User Manual - Harshambika Venkatesh
 
-Welcome to the Personal User Manual Template! Simply click "Use this template" above to create your own copy. You may want to read [The Pitch/Anti-Pitch for Personal User Manuals](https://medium.com/@caminmccluskey/personal-user-manuals-the-good-the-bad-and-the-template-7b80db5044ea) first.
+I am the Analytics Engineer for the ODA team. I am from Bangalore, India. Responsibilities include all DBMS operations, Data pipelines and DAGs maintenance.
 
-### Serving Your Personal User Manual as a Website
 
-[Example](https://camin-mccluskey.github.io/Personal-User-Manual)
-
-1. Click "Use this template" above to create a copy in your Github space. For help with this see [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
-2. Change the repository name to `personal-user-manual`.
-3. Edit the sections below to make it uniquely yours. Remember to delete everything inside the the `<details>` tags to remove the help tips.
-4. Go to Settings and scroll down to Github Pages then change the source to `master`. You can also set a new theme here.
-5. Visit `https://<your-github-username>.github.io/personal-user-manual` to see your work!
 
 ## About Me
 
 
 <details>
-    <summary>Tips</summary>
-Optional Section: You may want to fill out this as a section to help introduce yourself to new joiners or to people from outside your team. Feel free to keep it light and don't worry about going into much detail about yourself in a professional sense, as that can be covered by later sections. Some suggested points might be where you grew up, what your hobbies are or a fun fact about yourself.
+I am the Analytics Engineer for the ODA team. I am from Bangalore, which is the Silicon Valley of India. A fun fact about me is I summitted Mt Whitney last year and I love playing TT. Responsibilities include all DBMS operations, Data pipelines and DAGs maintenance.
 </details>
 
 ## How to Contact Me
 
 
 <details>
-    <summary>Tips</summary>
-Essential Section: You might want to think about some caveats here. Perhaps Slack is fine for a quick question but for longer communication you'd prefer to speak in person.
+    I am available on teams during the office hours and it is the quickest way to get a response from me. I reply to emails when I am not writing a code or debugging through an issue. Please expect to get a reply from me within a day or two. 
 </details>
 
 ## Preferred Working Style
 
 
 <details>
-    <summary>Tips</summary>
-Recommended Section: This section is pretty open to interpretation. You might want to think about practical details like what time of day you focus best, or whether you have external commitments at specific times. Equally you can include more abstract details like whether you find certain kinds of collaboration helpful to get your work done (pairing or shadowing work for example).
+I like working on my desk with my two monitors. They help set my zone and focus for longer hours while I am writing a code or brainstorming about something. I find it hard to work in a chilly room, love a warm room with a window and coffee ofcourse. I am in my optimal concentration zone in the mornings before lunch. I like to take a walk after lunch or in the evenings. I prefer to work alone or in team depending on the kind of task. I am not the best at scheduling things way ahead and sometimes miss updating my calendar. But I try to respond to teams message as quickle as possible. 
 </details>
 
 ## What Motivates Me
 
 
 <details>
-    <summary>Tips</summary>
-Recommended Section: Think about what gives you energy in work. What, about the work that you do, motivates you to push yourself? This doesn't need to be inspirational, it can be as simple as you enjoying seeing the results. The purpose of this section is to help your line manager and squad members to gain a picture of the work each person finds meaningful and interesting.
+The thing that gives me energy at work is merely the passion for solving things and building a solution. A energinitic team/ team manager motivates me a lot. I love to learn and a good mentor is someone I look forward to. I am mostly self motivated but on my low days I tend to reach out to Yoga, exercise or an outdoor activity that brings back my direction of thinking. I like to read books and watch light hearted comedy too. I talk to my family and friends and they help me in all ways possible.
 </details>
 
 ## What Demotivates Me
 
 
 <details>
-    <summary>Tips</summary>
-Recommended Section: The flip side of the above. Everyone has parts of their work they find less interesting, and they won't be the same for everyone. You never know, a task you find impossibly tedious might be something someone else really enjoys - if so, you've discovered a win-win!
+    If I dont understand the motive behind the project I am working on or If I dont understand the purpose of something. Routine tasks. 
 </details>
 
 ## My Values (and what I value in others)
 
 
 <details>
-    <summary>Tips</summary>
-Recommended Section: Accepting that we all treat each other with empathy, care and respect as a baseline. What values do you hold in the highest regard? What traits make you admire a person?
+ I really believe in treating the way you want to be treated. I am a really good listener if you are also willing to listen. I try my best to be kind and help others when needed.
 </details>
 
 ## My Blind Spots
 
 
 <details>
-    <summary>Tips</summary>
-Recommended Section: Everyone needs help sometimes. This is a good section to list the things you know you need help with or actively want feedback on. One caveat is that listing something here doesn't automatically excuse it! If you know you need to work on a particular area then please make sure you are doing so, soliciting feedback to measure your progress.
+I think I don't readily ask for feedback or talk about things like reviews or opinions a lot. I wish to inculcate that in my career and talk some time out to discuss it with my peers. 
 </details>
 
-## My Pet Peeves
 
 
-<details>
-    <summary>Tips</summary>
-Optional Section: It might be tempting to use this section to vent, that's absolutely fine but the more constructive the better. If there are simple things people can reasonably avoid doing, then list them here. Bear in mind that you will also need to also read your squad members' pet peeves section, it's a 2 way street.
-</details>
-
-## Other
-
-
-<details>
-    <summary>Tips</summary>
-Optional Section: There are some sections that are deliberately omitted from this template, but which arguably should be here - depending on your role, how comfortable you are sharing with your team etc. You may want to include these or use them as inspiration for your own.
-
-- "How I like my 1:1s" - This might be more relevant for managers to set expectations of their direct reports. Although direct reports certainly should have a say in how their 1:1s are structured
-- "Quirks" - While this is a fun one, there is a temptation to hide behaviour here that probably should be worked on instead. Additionally, behaviour is complex, situation dependent and evolving. Stating you have a particular quirk makes it immutable and sets the expectation that you will always act like this. That said please feel free to include a section like this as it's a good icebreaker, and adds a personal touch. Just be aware that you might be unaware of some of your own "quirky" behaviour.
-- "How to interpret my calendar" - If you're someone with wall to wall meetings every day it might be difficult for colleagues to find a good time to speak with you. If this is the case, then this section might be helpful to outline when you typically could make time for them.
-- "What you can expect from me" - Another one that might be useful for line managers, career coaches and mentors more than ICs. You may want to use this to set expectations around how often you'll be scheduling catchups, how you share feedback and what sort of support you can offer.
-</details>
